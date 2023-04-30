@@ -1,0 +1,47 @@
+@charset "UTF=8";
+
+body{
+    background-color: white;
+}
+
+#stopwatch{
+    background-color: black;
+    color: white;
+    width: 450px;
+    height: 350px;
+    text-align: center;
+    margin: auto;
+    line-height: 160px;
+    margin-top: 150px;
+}
+
+p{
+    font-size: 35pt;
+}
+
+#start-button{
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+#pause-button{
+    width: 100px;
+    height: 50px;
+    background-color: grey;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+#stop-button{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
